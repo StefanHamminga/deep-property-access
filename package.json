@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "Deep property access by dot separated string or key array",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StefanHamminga/deep-property-access"
+  },
+  "bugs": {
+    "url": "https://github.com/StefanHamminga/deep-property-access/issues"
+  },
   "scripts": {
     "test": "echo \"No test specified\""
   },
