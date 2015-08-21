@@ -78,4 +78,5 @@ Property 'key3.1': -10
 This project is licensed as [LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html), the license file is included in the project directory.
 
 Find this project on: [GitHub](https://github.com/StefanHamminga/deep-property-access) or [npm](https://www.npmjs.com/package/deep-property-access)
+
 Copyright 2015 [Stefan Hamminga](stefan@prjct.net) - [prjct.net](https://prjct.net)
